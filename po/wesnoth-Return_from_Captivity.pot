@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-11-21 18:10+0100\n"
+"POT-Creation-Date: 2010-11-29 14:53+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -539,7 +539,7 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: ./Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:393
-msgid "You have managed to rescue $ratio\\% of the forest. $bonusgld bonus golds are payed for you."
+msgid "You have managed to rescue $ratio% of the forest. $bonusgld bonus golds are payed for you."
 msgstr ""
 
 #. [multiplayer]: id=CSABI_The_Land_of_the_Dragons, id={UNIT_ID} role frozen}, id={UNIT_ID} role not_frozen}, id={UNIT_ID} role not_frozen}, id={UNIT_ID} canrecruit yes}
