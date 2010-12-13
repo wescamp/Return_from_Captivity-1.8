@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-11-29 14:53+0100\n"
+"POT-Creation-Date: 2010-12-13 14:54+0100\n"
 "PO-Revision-Date: 2010-11-21 18:10+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -65,30 +65,30 @@ msgstr ""
 #. [side]: type=Ancient Wose, id=brumennarorum
 #. [side]
 #. [side]: type=Dwarvish Lord, id=dal_phor
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:37
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:56
-#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:212
-#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:231
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:23
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:42
-#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:23
-#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:42
-#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:23
-#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:40
-#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:99
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:36
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:55
-#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:34
-#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:54
-#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:162
-#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:25
-#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:45
-#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:66
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:38
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:57
+#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:214
+#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:233
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:24
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:43
+#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:24
+#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:43
+#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:25
+#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:42
+#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:101
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:38
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:57
+#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:36
+#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:56
+#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:164
+#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:26
+#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:46
+#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:67
 #: Return_from_Captivity/scenarios/01_The_Prison.cfg:50
 #: Return_from_Captivity/scenarios/01_The_Prison.cfg:74
 #: Return_from_Captivity/scenarios/01_The_Prison.cfg:117
-#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:30
-#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:50
+#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:31
+#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:51
 #: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:41
 #: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:58
 msgid "Allies"
@@ -127,301 +127,301 @@ msgstr ""
 #. [side]: type=Troll Warrior
 #. [side]: type=Lich, id=unitid6, role=frozen
 #. [side]: type=Necromancer, id=unitid6, role=frozen
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:76
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:90
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:107
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:125
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:142
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:155
-#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:249
-#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:268
-#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:287
-#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:307
-#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:324
-#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:341
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:61
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:80
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:113
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:138
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:158
-#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:61
-#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:76
-#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:57
-#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:71
-#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:85
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:72
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:85
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:103
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:77
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:91
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:108
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:126
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:143
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:156
+#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:251
+#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:270
+#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:289
+#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:309
+#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:326
+#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:343
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:62
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:81
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:114
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:139
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:159
+#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:62
+#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:77
+#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:59
+#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:73
+#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:87
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:74
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:87
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:104
 #: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:121
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:139
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:157
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:175
-#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:83
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:138
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:155
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:172
+#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:84
 #: Return_from_Captivity/scenarios/01_The_Prison.cfg:91
 #: Return_from_Captivity/scenarios/01_The_Prison.cfg:124
 #: Return_from_Captivity/scenarios/01_The_Prison.cfg:138
-#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:70
-#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:85
-#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:100
-#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:120
-#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:137
-#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:150
+#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:71
+#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:86
+#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:101
+#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:121
+#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:138
+#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:151
 #: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:73
 #: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:93
 msgid "Evils"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:221
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:223
 msgid "I've found the way out!"
 msgstr ""
 
 #. [objective]: condition=win
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:324
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:343
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:326
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:346
 msgid "Get out from the prison (reach the south west section of the map)."
 msgstr ""
 
 #. [objective]: condition=lose
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:176
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:195
-#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:442
-#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:461
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:422
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:441
-#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:214
-#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:233
-#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:128
-#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:147
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:223
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:242
-#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:201
-#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:216
-#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:104
-#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:119
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:329
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:348
-#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:325
-#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:344
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:177
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:196
+#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:444
+#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:463
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:425
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:444
+#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:215
+#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:234
+#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:130
+#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:149
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:221
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:240
+#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:203
+#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:218
+#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:105
+#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:120
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:331
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:351
+#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:326
+#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:345
 #: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:120
-#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:139
+#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:140
 msgid "Death of $Player1Name"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:180
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:199
-#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:446
-#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:465
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:426
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:445
-#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:218
-#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:237
-#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:132
-#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:151
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:227
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:246
-#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:205
-#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:220
-#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:108
-#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:123
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:333
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:352
-#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:329
-#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:348
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:181
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:200
+#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:448
+#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:467
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:429
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:448
+#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:219
+#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:238
+#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:134
+#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:153
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:225
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:244
+#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:207
+#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:222
+#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:109
+#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:124
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:335
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:355
+#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:330
+#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:349
 #: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:124
-#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:143
+#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:144
 msgid "Death of $Player2Name"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:183
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:202
-#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:449
-#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:468
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:429
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:448
-#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:221
-#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:240
-#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:135
-#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:155
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:230
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:249
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:336
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:355
-#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:332
-#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:351
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:184
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:203
+#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:451
+#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:470
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:432
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:451
+#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:222
+#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:241
+#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:137
+#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:157
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:228
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:247
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:338
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:358
+#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:333
+#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:352
 #: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:127
-#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:146
+#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:147
 msgid "Turns run out"
 msgstr ""
 
 #. [event]: (type=Troll Warrior) max_moves 4}, (type=Troll Warrior) moves 4}
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:386
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:390
 msgid "Sirius"
 msgstr ""
 
 #. [event]: (type=Troll Warrior) max_moves 4}, (type=Troll Warrior) moves 4}
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:387
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:391
 msgid "Tallus"
 msgstr ""
 
 #. [event]: (type=Troll Warrior) max_moves 4}, (type=Troll Warrior) moves 4}
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:388
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:392
 msgid "Celilmalas"
 msgstr ""
 
 #. [event]: (type=Troll Warrior) max_moves 4}, (type=Troll Warrior) moves 4}
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:389
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:393
 msgid "Dulatol"
 msgstr ""
 
 #. [event]: (type=Troll Warrior) max_moves 4}, (type=Troll Warrior) moves 4}
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:390
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:394
 msgid "Ameldor"
 msgstr ""
 
 #. [event]: (type=Troll Warrior) max_moves 4}, (type=Troll Warrior) moves 4}
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:391
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:395
 msgid "Lorraent"
 msgstr ""
 
 #. [event]: (type=Troll Warrior) max_moves 4}, (type=Troll Warrior) moves 4}
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:392
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:396
 msgid "Trithatas"
 msgstr ""
 
 #. [event]: (type=Troll Warrior) max_moves 4}, (type=Troll Warrior) moves 4}
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:393
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:397
 msgid "Naraithus"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:469
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:473
 msgid "How is it going, my little dwarf friend? Do you have a nice day?"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:473
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:477
 msgid ""
 "Every day has been exactly the same since we got into this prison, 5 years "
 "ago. Anyway, thanks for the question."
 msgstr ""
 
 #. [message]: id=watchtroll
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:477
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:481
 msgid "Shut up prisoners, or I'll kill you all! "
 msgstr ""
 
 #. [multiplayer]: id=CSABI_The_Prison
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:481
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:485
 msgid "The wall is weak here! I'll try to break through!"
 msgstr ""
 
 #. [multiplayer]: id=CSABI_The_Prison
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:481
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:485
 msgid ""
 "Thank you for making me free. In gratitude I'll join you, elves, in the "
 "battle."
 msgstr ""
 
 #. [multiplayer]: id=CSABI_The_Prison
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:482
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:486
 msgid "I'm free at last! I'll help you dwarves to get away from here!"
 msgstr ""
 
 #. [multiplayer]: id=CSABI_The_Prison
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:482
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:486
 msgid "I can pass through here!"
 msgstr ""
 
 #. [multiplayer]: id=CSABI_The_Prison
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:483
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:487
 msgid "I can smash the wall here!"
 msgstr ""
 
 #. [multiplayer]: id=CSABI_The_Prison
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:483
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:487
 msgid "Thanks for rescuing me! I will serve you, dwarves till you get home!"
 msgstr ""
 
 #. [multiplayer]: id=CSABI_The_Prison
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:484
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:488
 msgid "I am out, hurray! I'll fight with you, elves, against the outlaws."
 msgstr ""
 
 #. [multiplayer]: id=CSABI_The_Prison
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:484
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:488
 msgid "The wall collapsed!"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:514
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:519
 msgid "We've managed to get away from the prison, at last!"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:533
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:539
 msgid "I hear a strange noise from the back corner of my cell!"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:537
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:543
 msgid "I also hear it. What can this be?"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:552
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:558
 msgid "A giant ant! It made a tunnel!"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:556
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:562
 msgid "Come in, I'm sure this tunnel has another exit as well!"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:570
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:576
 msgid ""
 "This cave can be very long with lots of enemies, so we'd rather find "
 "something or someone to heal us."
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:574
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:580
 msgid ""
 "Some of our cellmates were good at healing - perhaps we can find a way to "
 "free them?"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:578
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:584
 msgid ""
 "Good idea. They can also help us in the battle. Let's free as many cellmates "
 "as we can."
 msgstr ""
 
 #. [message]: id=watchtroll
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:587
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:593
 msgid "The prisoners have escaped! Follow them and slay them all!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:246
-#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:530
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:596
-#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:605
-#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:301
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:441
-#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:152
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:618
-#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:392
-#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:338
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:247
+#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:534
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:599
+#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:608
+#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:303
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:439
+#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:149
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:624
+#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:393
+#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:346
 msgid "I die now, friends... I won't see my homeland any more..."
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:629
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:635
 msgid ""
 "The orcs and trolls are surrounded the prison. There's no way to escape from "
 "now."
@@ -433,7 +433,7 @@ msgid "RfC-The Valley of the Fear"
 msgstr ""
 
 #. [part]
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:19
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:21
 msgid ""
 "After getting away from the prison, orcish and troll troups started to "
 "pursue them. The escape caused serious damage in the reputation of the "
@@ -444,19 +444,19 @@ msgstr ""
 
 #. [side]: type=Orcish Warlord
 #. [side]: type=Troll
-#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:58
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:73
+#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:60
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:75
 msgid "Brag Goh"
 msgstr ""
 
 #. [side]: type=Orcish Warlord
-#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:72
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:86
+#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:74
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:88
 msgid "Grishnak"
 msgstr ""
 
 #. [side]: type=Troll
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:104
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:105
 msgid "Thruf"
 msgstr ""
 
@@ -466,93 +466,93 @@ msgid "Rebrir"
 msgstr ""
 
 #. [side]: type=Drake Flare
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:140
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:139
 msgid "Kraag"
 msgstr ""
 
 #. [side]: type=Dark Sorcerer
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:158
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:156
 msgid "Morol Bett"
 msgstr ""
 
 #. [side]: type=Dark Sorcerer
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:176
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:173
 msgid "Amith Agar"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:200
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:198
 msgid "I've found a secret door!"
 msgstr ""
 
 #. [objective]: condition=win
-#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:123
-#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:142
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:218
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:237
-#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:196
-#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:211
+#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:125
+#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:144
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:216
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:235
+#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:198
+#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:213
 msgid "Defeat all enemy leaders."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:286
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:284
 msgid "This is a magic book! Reading..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:290
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:288
 msgid ""
 "I've found an incantation, which can start a quarrel amongst the trolls, "
 "bandits, drakes, orcs and undeads. It's 'Hamuk Mafaraguk'."
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:304
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:302
 msgid ""
 "Hey Orcs, enough of the alliance! I hate those disgusting trolls, undeads, "
 "bandits and everyone else! Slay them all!"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:308
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:306
 msgid "Trolls, no need for orcs, bandits, undeads! Don't spare them!"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:312
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:310
 msgid ""
 "Undeads, it's time to show everyone, that our race is the most powerful in "
 "the earth. Kill everyone who is not undead!"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:316
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:314
 msgid "It seems this incantation works well!"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:399
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:397
 msgid "We've surrounded you. Surrender, or prepare to die!"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:404
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:402
 msgid "I think our only choice is to defeat them."
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:409
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:407
 msgid "I think so. Then let the combat begin!"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:414
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:412
 msgid "Stupid dwarves and elves. Noone of you will survive this battle!"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:423
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:421
 msgid ""
 "We are in big trouble as we are seriously outnumbered by the enemies. There "
 "are more of them, then I expected. We'd better go into the cave until we "
@@ -560,12 +560,12 @@ msgid ""
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:428
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:426
 msgid "Good idea. I hope life will be easier inside..."
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:453
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:451
 msgid ""
 "Oh, no! We have run out of time, they have arrived with reinforcements..."
 msgstr ""
@@ -601,94 +601,100 @@ msgstr ""
 
 #. [objective]: condition=win
 #: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:115
-#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:134
+#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:135
 msgid "Reach one of the ships at the north east part of the map."
 msgstr ""
 
+#. [objectives]
+#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:130
+#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:150
+msgid "<small>Note: Both Players had to reach their Ship.</small>"
+msgstr ""
+
 #. [message]
-#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:173
+#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:175
 msgid ""
 "We've reached the port, it's on the other side of the river! We'd better "
 "leave this place as soon as we can."
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:177
+#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:179
 msgid ""
 "I don't want to stay here for a long either. Why is this river called the "
 "River of the Everlasting Fluctuation?"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:181
+#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:183
 msgid ""
 "Because the tide is remarkable on that river. We must be very careful in the "
 "flood, as our fighters can drown in the deep water."
 msgstr ""
 
 #. [unit]: id=Elcmar, type=Merman Fighter
-#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:223
+#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:225
 msgid "Elcmar"
 msgstr ""
 
 #. [unit]: id=Aremata, type=Merman Hunter
-#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:236
+#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:239
 msgid "Aremata"
 msgstr ""
 
 #. [unit]: id=Parthenope, type=Mermaid Initiate
-#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:249
+#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:253
 msgid "Parthenope"
 msgstr ""
 
 #. [message]: id=Elcmar
-#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:259
+#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:264
 msgid "Thank you for rescuing us! We will help you fight against the undeads!"
 msgstr ""
 
 #. [unit]: id=Ikatere, type=Merman Fighter
-#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:285
+#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:290
 msgid "Ikatere"
 msgstr ""
 
 #. [unit]: id=Phorcys, type=Merman Hunter
-#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:298
+#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:304
 msgid "Phorcys"
 msgstr ""
 
 #. [unit]: id=Njord, type=Mermaid Initiate
-#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:311
+#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:318
 msgid "Njord"
 msgstr ""
 
 #. [message]: id=Phorcys
-#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:321
+#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:329
 msgid ""
 "Thank you for letting us free! Now we join to fight on the dwarves' side!"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:350
+#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:358
 msgid ""
 "Oh, no! The ships have launched from the docks. We couldn't escape from this "
 "island!"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:414
-#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:542
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:415
+#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:549
 msgid "Help, I'm drowning!"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:558
+#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:565
 msgid ""
 "The water reached its highest level, so it's time to start crossing the "
 "river!"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:590
+#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:598
 msgid ""
 "We've reached the ships at last. Now we can leave this dangerous island."
 msgstr ""
@@ -699,29 +705,29 @@ msgid "RfC-Save the Forest"
 msgstr ""
 
 #. [side]: type=Orcish Warlord
-#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:86
+#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:88
 msgid "Lumpur"
 msgstr ""
 
 #. [side]: type=Ancient Wose, id=brumennarorum
-#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:100
+#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:102
 msgid "Brumennarunom"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:240
+#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:242
 msgid ""
 "We've managed to get away from Cold Death Island, and what's more, we are "
 "now in a lovely forest. I'm sure, that you, elves enjoy it very much."
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:245
+#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:247
 msgid "Ah, yes. A beautiful one. I could spend years here."
 msgstr ""
 
 #. [message]: speaker=ambassador
-#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:269
+#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:271
 msgid ""
 "Help us strangers! My master, the ancient wose Brumennarunom, has sent to "
 "you as the orcs decided to destroy our forest. They earn 5 golds for each "
@@ -729,7 +735,7 @@ msgid ""
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:275
+#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:277
 msgid ""
 "What idiot creatures they are, destroying these beautiful trees! We'd better "
 "help the woses, otherwise we will be unable to cross this land. The forest "
@@ -738,27 +744,27 @@ msgid ""
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:281
+#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:283
 msgid ""
 "Don't help them, or prepare to die. My woodcutters will cut every tree and I "
 "will be the mightiest orc in the world!"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:287
+#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:289
 msgid "We'll help you wose and banish these orcs from your land."
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:313
+#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:315
 msgid "Oh, no! We have run out of time, we can't save the forest..."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:393
+#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:400
 msgid ""
-"You have managed to rescue $ratio% of the forest. $bonusgld bonus golds are "
-"payed for you."
+"You have managed to rescue $ratio\\% of the forest. $bonusgld bonus golds "
+"are payed for you."
 msgstr ""
 
 #. [multiplayer]: id=CSABI_The_Land_of_the_Dragons, id={UNIT_ID} role frozen}, id={UNIT_ID} role not_frozen}, id={UNIT_ID} role not_frozen}, id={UNIT_ID} canrecruit yes}
@@ -767,34 +773,34 @@ msgid "RfC-The Land of the Dragons"
 msgstr ""
 
 #. [side]
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:99
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:100
 msgid "Animals"
 msgstr ""
 
 #. [side]
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:189
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:190
 msgid "Cockatrices"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:264
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:266
 msgid "Do you want this unit to pick up the sword?"
 msgstr ""
 
 #. [option]: speaker=narrator
-#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:179
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:266
-#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:341
+#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:181
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:268
+#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:343
 msgid "Yes"
 msgstr ""
 
 #. [object]: id={ID}
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:270
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:272
 msgid "Flaming Sword"
 msgstr ""
 
 #. [object]: id={ID}
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:273
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:275
 msgid ""
 "This massive blade was created centuries ago by long-forgotten elvish "
 "forgemasters, who imbued the bluish steel with an inner magical fire. "
@@ -803,7 +809,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:281
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:283
 msgid ""
 "As you place your hand around the glittering leather hilt, the sword roars "
 "to life! Strangely, you feel no heat once you pick it up, yet the grass at "
@@ -811,24 +817,24 @@ msgid ""
 msgstr ""
 
 #. [effect]: type=fire
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:289
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:291
 msgid "flaming sword"
 msgstr ""
 
 #. [option]: speaker=narrator
-#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:191
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:310
-#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:354
+#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:193
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:312
+#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:356
 msgid "No"
 msgstr ""
 
 #. [object]: id={ID}
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:336
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:339
 msgid "Rod of Justice"
 msgstr ""
 
 #. [object]: id={ID}
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:339
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:342
 msgid ""
 "This is a magical staff of tremendous power and unknown origin. The wielder "
 "of this staff gains a dramatic increase in strength, speed and intelligence, "
@@ -838,28 +844,28 @@ msgid ""
 msgstr ""
 
 #. [effect]: type=fire
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:347
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:350
 msgid "rod of justice"
 msgstr ""
 
 #. [objective]: condition=win
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:417
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:436
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:420
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:439
 msgid "Reach south-east part of the map."
 msgstr ""
 
 #. [message]: type=Elf Raindancer
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:520
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:523
 msgid "Thank you for saving us. We will serve you in your battle!"
 msgstr ""
 
 #. [message]: type=Eagle Rider
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:529
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:532
 msgid "At last we are out! We'll join you to help you in your fight."
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:561
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:564
 msgid ""
 "This is the end of the forest and here starts a big mountain named "
 "Anthillerrac. This is the only road which crosses this high mountain. I've "
@@ -868,7 +874,7 @@ msgid ""
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:566
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:569
 msgid ""
 "The signpost says that this is the land of the dragons and whoever "
 "trespasses will die. Did your grand-grand father write anything about those "
@@ -876,59 +882,59 @@ msgid ""
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:571
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:574
 msgid "No, he didn't. He might have thought that this was unimportant."
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:576
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:579
 msgid ""
 "Unimportant? We'd better pay attention to this land as I don't like it at "
 "all."
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:258
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:608
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:259
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:611
 msgid "Oh, no! We have run out of time, reinforcements have arrived..."
 msgstr ""
 
 #. [message]: type=Nightgaunt
 #. [message]: type=Lich
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:649
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:782
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:652
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:787
 msgid "You've entered a holy place! The punishment for you is death."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:665
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:669
 msgid "Land of the dragoons, don't enter or meet your death."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:680
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:685
 msgid "Rather grim place, full of dead bodies."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:736
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:741
 msgid ""
 "Stone drakes! We'd better be very careful as there are Cockatrices near "
 "here. I don't want to be sculpture like this."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:832
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:837
 msgid "What a dark place! Nobody is here."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:865
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:871
 msgid "The walls have opened!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:876
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:882
 msgid ""
 "Hey, I've found how to open the walls to get out of here! If two units step "
 "onto the runes, the walls will open."
@@ -940,70 +946,70 @@ msgid "RfC-The Frozen River"
 msgstr ""
 
 #. [side]: type=Orcish Warlord
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:73
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:74
 msgid "Barag"
 msgstr ""
 
 #. [side]: type=Great Troll
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:87
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:88
 msgid "Dak"
 msgstr ""
 
 #. [side]: type=Naga Myrmidon
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:104
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:105
 msgid "Abraxas"
 msgstr ""
 
 #. [side]: type=Naga Myrmidon
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:123
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:124
 msgid "Blo"
 msgstr ""
 
 #. [side]: type=Orcish Warlord
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:139
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:140
 msgid "Horki"
 msgstr ""
 
 #. [objective]: condition=win
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:171
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:172
 msgid ""
 "Cross the river with $Player1Name and reach one of the signposts at the "
 "north-east part of the map."
 msgstr ""
 
 #. [objective]: condition=win
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:190
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:191
 msgid ""
 "Cross the river with $Player2Name and reach one of the signposts at the "
 "north-east part of the map."
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:214
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:215
 msgid "We've come earlier than I expected, the river hasn't been frozen yet."
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:219
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:220
 msgid ""
 "The water is very deep, so we can't cross if there's no ice on it. We have "
 "to wait until the river freezes."
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:224
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:225
 msgid ""
 "Be careful, step only those ice hexes which aren't adjacent to water "
 "otherwise you could easily get drowned."
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:229
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:230
 msgid "You'll never cross this river! Prepare to die!"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:234
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:235
 msgid "Let's fight with them!"
 msgstr ""
 
@@ -1013,14 +1019,14 @@ msgid "RfC-The Invisible Legion"
 msgstr ""
 
 #. [hides]: id=invisibility
-#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:21
 #: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:22
+#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:23
 msgid "invisibility"
 msgstr ""
 
 #. [hides]: id=invisibility
-#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:26
-#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:30
+#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:27
+#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:31
 msgid ""
 "Invisibility:\n"
 "This unit is invisible by its enemies.\n"
@@ -1031,32 +1037,32 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:177
+#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:179
 msgid "Do you want this unit to pick up the pearl?"
 msgstr ""
 
 #. [objective]: condition=win
-#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:437
-#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:456
+#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:439
+#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:458
 msgid "Kill every invisible unit."
 msgstr ""
 
 #. [message]: speaker=side2_messager
-#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:502
+#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:505
 msgid ""
 "Please don't enter into this cave! It's extremely dangerous, full of trolls, "
 "nagas, insects and enchanted invisible undeads."
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:507
+#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:510
 msgid ""
 "We have to cross this cave, we don't have time to travel 100 miles more for "
 "by-passing."
 msgstr ""
 
 #. [message]: speaker=side2_messager
-#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:513
+#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:516
 msgid ""
 "Then use the magic pearls please. The pearls help you detect the enemy from "
 "distance. If the colour of the pearl is green, then there's no enemy nearby. "
@@ -1066,29 +1072,29 @@ msgid ""
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:518
+#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:521
 msgid "Thanks, the pearls will be great help to us."
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:593
+#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:599
 msgid ""
 "Oh, no! We have run out of time, didn't manage to get out of the cave..."
 msgstr ""
 
 #. [print]
-#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:673
+#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:679
 msgid "$enemyUnits.length invisible unit(s) to kill"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:690
+#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:697
 msgid "Be careful, there are invisible undeads in this cave."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:725
-#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:748
+#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:734
+#: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:758
 msgid ""
 "There is a great fortune in this chest of treasure! I can count 1000 pieces "
 "of gold!"
@@ -1100,41 +1106,41 @@ msgid "RfC-The Labyrinth"
 msgstr ""
 
 #. [objective]: condition=win
-#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:209
+#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:210
 msgid "Get out of the labyrith with $Player1Name and $Player2Name."
 msgstr ""
 
 #. [objective]: condition=win
-#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:228
+#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:229
 msgid "Get out of the labyrinth with $Player1Name and $Player2Name."
 msgstr ""
 
 #. [message]: speaker=HumanDruid-Lab
-#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:568
+#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:571
 msgid ""
 "Hey dwarf! Me and my brother got lost in this labyrinth. Could you please "
 "help us find the way out?"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:573
+#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:576
 msgid "We would gladly help you, but we neither know how to get out of here."
 msgstr ""
 
 #. [message]: speaker=HumanDruid-Lab
-#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:578
+#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:581
 msgid ""
 "But you have an army which can protect you against the undeads in the "
 "labyrinth!"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:583
+#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:586
 msgid "Then please join us and help us in the fight!"
 msgstr ""
 
 #. [message]: speaker=HumanDruid-Lab
-#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:588
+#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:591
 msgid ""
 "Thanks, it's very kind of you. Oh, there's one thing you have to know: you "
 "can recruit only in this and the next turn, so I suggest calling the best 12 "
@@ -1142,14 +1148,14 @@ msgid ""
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:593
+#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:596
 msgid ""
 "Thank you for the important information! I'll start recalling my fighters "
 "immediately."
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:617
+#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:620
 msgid ""
 "Oh, no! We have run out of time, didn't manage to get out of this "
 "labyrinth..."
@@ -1161,40 +1167,35 @@ msgid "RfC-Open Sesame"
 msgstr ""
 
 #. [objective]: condition=win
-#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:320
-#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:339
+#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:321
+#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:340
 msgid "Find the secret tunnel with either $Player1Name or $Player2Name."
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:375
+#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:376
 msgid ""
 "We are very close now. There's a secret door somewhere here which enters the "
 "tunnel leading to our home!"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:380
+#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:381
 msgid ""
 "As far as I remember, this door is in the middle of the desert. Let's find "
 "it, as I can hardly wait returning to our marvellous caves!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:420
+#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:421
 msgid ""
 "I've found a magic ball at this guy. It might open the walls of the "
 "mountain..."
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:437
+#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:444
 msgid "Oh, no! We have run out of time, didn't manage to leave this desert..."
-msgstr ""
-
-#. [message]: speaker=narrator
-#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:503
-msgid "It's a magic monolith."
 msgstr ""
 
 #. [message]: speaker=unit
@@ -1208,12 +1209,17 @@ msgid "Sesame opened."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:581
+#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:570
+msgid "It's a magic monolith."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:592
 msgid "Only a leader can open this door!"
 msgstr ""
 
 #. [message]: speaker=$thirsty_units[$i].id
-#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:662
+#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:674
 msgid "I'm thirsty! Without water we'll all lose our strength in this desert!"
 msgstr ""
 
@@ -1223,63 +1229,63 @@ msgid "RfC-The Tunnel"
 msgstr ""
 
 #. [side]: type=Dwarvish Lord, id=dal_phor
-#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:64
+#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:65
 msgid "Dal Phor"
 msgstr ""
 
 #. [objective]: condition=win
-#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:99
-#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:114
+#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:100
+#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:115
 msgid "Reach the end of the tunnel with $Player1Name and $Player2Name."
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:136
+#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:133
 msgid "Our home is at the end of this tunnel."
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:140
+#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:137
 msgid ""
 "Hard to beleive that we reached this place. Hurry elf, I'd like to have a "
 "drink with my fellows tonight!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:215
+#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:214
 msgid ""
 "Hi Dal Phor, my old fried! How is it going? We've just escaped from "
 "Aethernum. I'm so happy to see you again!"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:219
+#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:218
 msgid ""
 "Oh, I can tell you just bad news. The orcs conquered our land a year ago, "
 "and I escaped here to the tunnel!"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:223
+#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:222
 msgid "Not a big deal. Then we'll take the land back!"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:227
+#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:226
 msgid ""
 "Unfortunately the orcs are very strong, they built a fortress. Many of us "
 "tried to take it without success."
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:231
+#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:230
 msgid ""
 "I walked miles fighting with thousands of enemies to reach this place. I "
 "won't turn back!"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:235
+#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:234
 msgid ""
 "Then I'll offer my help. Many years ago, when I was younger, I've managed to "
 "tame 2 cockatrices. You know, that cockatrices are extremely wild, but these "
@@ -1288,7 +1294,7 @@ msgid ""
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:275
+#: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:276
 msgid "Thanks, they will be great help for us!"
 msgstr ""
 
@@ -1300,106 +1306,106 @@ msgstr ""
 #. [side]: type=Orcish Warlord
 #. [side]: type=Troll Warrior
 #. [side]: type=Naga Myrmidon
-#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:73
-#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:96
-#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:115
+#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:75
+#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:98
+#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:117
 msgid "Evil Orcs"
 msgstr ""
 
 #. [side]: type=Orcish Warlord
-#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:74
+#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:76
 msgid "Vrorg"
 msgstr ""
 
 #. [side]
-#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:134
-#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:148
+#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:136
+#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:150
 msgid "Evil Undeads"
 msgstr ""
 
 #. [side]
-#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:179
+#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:181
 msgid "Stone units"
 msgstr ""
 
 #. [message]: id=dal_phor
-#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:288
+#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:290
 msgid ""
 "Let's start the battle and free our people! Once the orcs closed undeads "
 "into the caves close to the monoliths. You might release them."
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:293
+#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:295
 msgid "It's a bit dangerous. And what's if they join the orcs?"
 msgstr ""
 
 #. [message]: id=dal_phor
-#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:297
+#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:299
 msgid ""
 "They are so angry with them, that they will never join them. Either you "
 "release them or not, be careful!"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:302
+#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:304
 msgid "Thanks for the suggestion. We'll think it over!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:314
+#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:316
 msgid "I die now, friends... At least I will rest at my homeland."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:339
+#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:341
 msgid "Do you want to open this door to release the undeads?"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:528
+#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:530
 msgid ""
 "Hey, the enemies are so numerous, that we can't win even with hundred "
 "cockatrices!"
 msgstr ""
 
 #. [message]: id=dal_phor
-#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:532
+#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:534
 msgid ""
 "Don't underestimate the power of the cockatrices! You can create barricades "
 "with them!"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:565
-#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:592
+#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:567
+#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:594
 msgid ""
 "Hello elf and dwarf friends! We've heard that you are in trouble, so we "
 "woses decided to help you."
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:569
+#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:571
 msgid ""
 "Hi woses! Nice to see you, but you shouldn't come here. We can't win this "
 "battle as the orcs and trolls reinforces their army!"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:573
-#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:604
+#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:575
+#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:606
 msgid ""
 "Don't worry about them, we cut the reinforcement paths, just go ahead and "
 "defeat them!"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:596
+#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:598
 msgid "Hey Brumennarorum, so nice to see you again."
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:600
+#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:602
 msgid ""
 "Hi Brumennarorum, nice to see you, but you shouldn't come here. We can't win "
 "this battle as the orcs and trolls reinforces their army!"
