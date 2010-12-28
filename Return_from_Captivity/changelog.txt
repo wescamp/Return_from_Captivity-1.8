@@ -1,0 +1,56 @@
+0.8
+ :takeover of the campaign
+
+0.9
+ :fixed several small issues, cleaned up code
+
+0.9.2
+ :fixed 'open sesame' not triggering victory event
+ :reduced heavely carryover gold since previous was insane
+ :more code debuging
+
+0.9.5
+ :changed 2nd scenario map since it was to easy to defend the cave
+ >added 4 more entries to the cave (2 flyer only)
+ >it is still easy to hold the cave since the enemy had to enter via a 1 hex
+  pathway (2 of them slowed down with water)
+ >moved the naga recruit to the orcs (they need them more)
+ :nagas and bats now join the players in 'land of dragons' but aren't loyal
+ :descluttered the macros (better multiplayer support)
+ :rewritted the thirsty in open sesame (the previous has insanly complicated rules 
+  and only worked from time to time by chance)
+ >all living units (also ai) except ambushers and trolls suffer thirst
+ >make it more similar to the desydration of UtBS (so the player may know it)
+ :reduced carryover again
+ :decreased bonus gold (3000+ gold is simply to much to accumulate)
+ :tryed to rewritte the florestcutters code in 'save the forest'
+ > they now at least move far more heavy to new forest tiles
+ >added also a visual hint to remind the player what the cutters are doing
+ >units with fire attacks also cut forest (to bring more pressure on the player)
+ :troll guardians now open all free cells in 1st scenario (beware!)
+ :finally had a look at the units
+	>new graphics for the eaglerider (a thanks to the creator of era of magic)
+	>new graphics for the human druid (woodwarriors - BEEM)
+	>new special for the elfish raindancer and highter levels
+	>minor  tweaks in stats
+
+0.9.6
+ :added a changelog...
+ :team names changed to somewhat more creative than 'evil'
+ :rewrited the pearl macro in 'the invisible legion'
+ >somewhat less cluttered / easier to read
+ >it doesnt say anymore how many enemies are in total but how many
+  are in reach of the pearls (so the player is still warned)
+ :reduced heavily the invocation of id's in messages, and code in general
+ :a lot of tweaks
+ :saurians only start recruting after they meet with the players
+ :changed slightly the macro of the ambushers in 'open sesame' 
+ :loyal units automatically recalled in last scenario (except mermen)
+
+
+TODO
+ :the floot macro in 'leaving the island' seems of need of overlooking
+  (save files everytime gets corrupted here...)
+  > also it seems to floot a bit to fast...
+ 
+-----------------------------------------trewe---------------------------------------------
