@@ -23,7 +23,7 @@
  >make it more similar to the desydration of UtBS (so the player may know it)
  :reduced carryover again
  :decreased bonus gold (3000+ gold is simply to much to accumulate)
- :tryed to rewritte the florestcutters code in 'save the forest'
+ :tried to rewritte the florestcutters code in 'save the forest'
  > they now at least move far more heavy to new forest tiles
  >added also a visual hint to remind the player what the cutters are doing
  >units with fire attacks also cut forest (to bring more pressure on the player)
@@ -47,10 +47,15 @@
  :changed slightly the macro of the ambushers in 'open sesame' 
  :loyal units automatically recalled in last scenario (except mermen)
 
+0.9.7
+ :pearls in 'the invisible legion' can now be picked up again if the former carrier dies
+ :trowing units in 'leaving the island' and 'frozen river' fixed
+ :carryover percentage increased again
 
 TODO
- :the floot macro in 'leaving the island' seems of need of overlooking
+ :the floot macro in 'leaving the island' seems of need of overlooking ~bah
   (save files everytime gets corrupted here...)
   > also it seems to floot a bit to fast...
+ :save the forest and his woodcutters...
  
 -----------------------------------------trewe---------------------------------------------
