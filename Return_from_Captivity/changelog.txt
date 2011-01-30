@@ -13,7 +13,7 @@
  : changed 2nd scenario map since it was to easy to defend the cave
 	> added 4 more entries to the cave (2 flyer only)
 	> it is still easy to hold the cave since the enemy had to enter via a 1 hex pathway (2 of them slowed down with water)
-	> moved the naga recruit to the orcs (they need them more)
+	> moved the naga recruit to the orcs (they need them more, but seems never recruit it)
  : nagas and bats now join the players in 'land of dragons' but aren't loyal
  : descluttered the macros (better multiplayer support)
  : rewritted the thirsty in open sesame (the previous has insanly complicated rules and only worked from time to time by chance)
@@ -55,8 +55,30 @@
  : two saurians join in 'save the forest'
  : two more captives in 'open sesame' - ghoul (side 1) and orcish assassin (2); poison attack enabled to the players
  : further playtesting and balancing
- : woodcutters in 'save the forest' now act as expected
+ : woodcutters in 'save the forest' NOW ACT AS EXPECTED
+
+0.9.9
+ : added a walktrought
+ : removed «dwarvish alchemist»
+ : tweaks in 1st scenario
+ : improved ai
+ : balancing
+ : cleaned up the code
+
+1.0
+ : quick fix
+ : added ai controller in 'save the forest'
+ : ironed out some glitches
+ : final release for 1.8
 
 TODO
- : none so far 
+ : none so far
+
+------------------------------------------------1.9----------------------------------------
+0.8
+ : first release (BfW 1.9.4)
+
+TODO
+ : finishing conversation (mostly minor tweaks)
+
 -----------------------------------------trewe---------------------------------------------
