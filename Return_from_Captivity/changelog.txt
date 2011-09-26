@@ -1,84 +1,63 @@
 0.8
- : takeover of the campaign
+ :takeover of the campaign
 
 0.9
- : fixed several small issues, cleaned up code
+ :fixed several small issues, cleaned up code
 
 0.9.2
- : fixed 'open sesame' not triggering victory event
- : reduced heavely carryover gold since previous was insane
- : more code debuging
+ :fixed 'open sesame' not triggering victory event
+ :reduced heavely carryover gold since previous was insane
+ :more code debuging
 
 0.9.5
- : changed 2nd scenario map since it was to easy to defend the cave
-	> added 4 more entries to the cave (2 flyer only)
-	> it is still easy to hold the cave since the enemy had to enter via a 1 hex pathway (2 of them slowed down with water)
-	> moved the naga recruit to the orcs (they need them more, but seems never recruit it)
- : nagas and bats now join the players in 'land of dragons' but aren't loyal
- : descluttered the macros (better multiplayer support)
- : rewritted the thirsty in open sesame (the previous has insanly complicated rules and only worked from time to time by chance)
-	> all living units (also ai) except ambushers and trolls suffer thirst
-	> make it more similar to the desydration of UtBS (so the player may know it)
- : reduced carryover again
- : decreased bonus gold (3000+ gold is simply to much to accumulate)
- : tried to rewritte the florestcutters code in 'save the forest'
-	> they now at least move far more heavy to new forest tiles
-	> added also a visual hint to remind the player what the cutters are doing
-	> units with fire attacks also cut forest (to bring more pressure on the player)
- : troll guardians now open all free cells in 1st scenario (beware!)
- : finally had a look at the units
-	> new graphics for the eaglerider (a thanks to the creator of era of magic)
-	> new graphics for the human druid (woodwarriors - BEEM)
-	> new special for the elfish raindancer and highter levels
-	> minor  tweaks in stats
+ :changed 2nd scenario map since it was to easy to defend the cave
+ >added 4 more entries to the cave (2 flyer only)
+ >it is still easy to hold the cave since the enemy had to enter via a 1 hex
+  pathway (2 of them slowed down with water)
+ >moved the naga recruit to the orcs (they need them more)
+ :nagas and bats now join the players in 'land of dragons' but aren't loyal
+ :descluttered the macros (better multiplayer support)
+ :rewritted the thirsty in open sesame (the previous has insanly complicated rules
+  and only worked from time to time by chance)
+ >all living units (also ai) except ambushers and trolls suffer thirst
+ >make it more similar to the desydration of UtBS (so the player may know it)
+ :reduced carryover again
+ :decreased bonus gold (3000+ gold is simply to much to accumulate)
+ :tried to rewritte the florestcutters code in 'save the forest'
+ > they now at least move far more heavy to new forest tiles
+ >added also a visual hint to remind the player what the cutters are doing
+ >units with fire attacks also cut forest (to bring more pressure on the player)
+ :troll guardians now open all free cells in 1st scenario (beware!)
+ :finally had a look at the units
+	>new graphics for the eaglerider (a thanks to the creator of era of magic)
+	>new graphics for the human druid (woodwarriors - BEEM)
+	>new special for the elfish raindancer and highter levels
+	>minor  tweaks in stats
 
 0.9.6
- : added a changelog...
- : user_team_names changed to somewhat more creative than 'evil'
- : rewrited the pearl macro in 'the invisible legion'
-	> somewhat less cluttered / easier to read
- : reduced heavily the invocation of id's in messages, and code in general
- : a lot of tweaks
- : saurians only start recruting after they meet with the players
- : changed slightly the macro of the ambushers in 'open sesame' 
- : loyal units automatically recalled in last scenario (except mermen)
+ :added a changelog...
+ :team names changed to somewhat more creative than 'evil'
+ :rewrited the pearl macro in 'the invisible legion'
+ >somewhat less cluttered / easier to read
+ >it doesnt say anymore how many enemies are in total but how many
+  are in reach of the pearls (so the player is still warned)
+ :reduced heavily the invocation of id's in messages, and code in general
+ :a lot of tweaks
+ :saurians only start recruting after they meet with the players
+ :changed slightly the macro of the ambushers in 'open sesame'
+ :loyal units automatically recalled in last scenario (except mermen)
+ :pearls in 'the invisible legion' can now be picked up again if the former carrier dies
+ :trowing units in 'leaving the island' and 'frozen river' fixed
+ :carryover percentage increased again
 
 0.9.7
- : pearls in 'the invisible legion' can now be picked up again if the former carrier dies
- : trowing units in 'leaving the island' and 'frozen river' fixed
- : small map fix in 'Valley of Fear'
- : small fix in 1st scenario
+ : added portuguese translation
 
 0.9.8
- : added «dwarvish alchemist» (from 'Earths Cut'/'Hammer of Thursagen') as healer for player 2 ~delayed: needs playtesting
-	> changed slow to curse to be less shaman clone like
- : two saurians join in 'save the forest'
- : two more captives in 'open sesame' - ghoul (side 1) and orcish assassin (2); poison attack enabled to the players
- : further playtesting and balancing
- : woodcutters in 'save the forest' NOW ACT AS EXPECTED
-
-0.9.9
- : added a walktrought
- : removed «dwarvish alchemist»
- : tweaks in 1st scenario
- : improved ai
- : balancing
- : cleaned up the code
-
-1.0
- : quick fix
- : added ai controller in 'save the forest'
- : ironed out some glitches
- : final release for 1.8
+ : fixed orcish woodcutters
+ : finished port. translation
 
 TODO
- : none so far
+ : ...
 
-------------------------------------------------1.9----------------------------------------
-0.8
- : first release (BfW 1.9.4)
-
-TODO
- : finishing conversation (mostly minor tweaks)
-
------------------------------------------trewe---------------------------------------------
+--------------------------------------trewe \ sjrs456 at yahoo dot fr---------------------------------------------
